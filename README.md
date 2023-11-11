@@ -1,2 +1,7 @@
-# Torrent-Sites
-Sharing is Caring (check branches)
+# Torrent Clients
+
+qbittorrent.org
+
+xunlei.com
+
+bitcomet.com/en
