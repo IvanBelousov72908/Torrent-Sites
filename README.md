@@ -2,6 +2,8 @@
 
 bitsearch.to
 
+torrentgalaxy.to
+
 fitgirl-repacks.site
 
 1337x.to/home
